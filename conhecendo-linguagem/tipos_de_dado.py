@@ -1,4 +1,4 @@
-# O tipo informa ao interpetretador quanto será gasto de memória
+# O tipo informa ao interpetretador quanto será gasto de memória para alocar o tipo
 
 print(11 + 10 + 1000)
 print(1.5 + 1 + 0.5)
